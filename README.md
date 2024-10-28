@@ -1,3 +1,10 @@
+# UI changes
+- I changed some css styling of the project such that it looks less crowded with more white space.
+- I chose gold color for border and button background to align with the jwellery theme.
+- I gave blogs border color gold and created some space between footer and blogs.
+- I also removed the background from header and border and added top and bottom border to bottom header.
+- I removed the background color from footer and gave it a top border of gold.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
