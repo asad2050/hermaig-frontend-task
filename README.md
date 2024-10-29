@@ -1,9 +1,17 @@
+### Project Information
+This project is part of an assessment for a Web Developer Internship at Hermaig Jewelers.
+
+### Demo
+Check out the live demo of the project [here](https://hermaig-frontend-task.onrender.com/).
+
 # UI changes
 - I changed some css styling of the project such that it looks less crowded with more white space.
 - I chose gold color for border and button background to align with the jwellery theme.
 - I gave blogs border color gold and created some space between footer and blogs.
 - I also removed the background from header and border and added top and bottom border to bottom header.
 - I removed the background color from footer and gave it a top border of gold.
+
+# Code Setup
 
 # Getting Started with Create React App
 
