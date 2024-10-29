@@ -1,5 +1,5 @@
 ### Project Information
-This project is part of an assessment for a Web Developer Internship at Hermaig Jewelers.
+This project is part of an assessment for a Web Developer Internship at Hermaig Jewellers.
 
 ### Demo
 Check out the live demo of the project [here](https://hermaig-frontend-task.onrender.com/).
